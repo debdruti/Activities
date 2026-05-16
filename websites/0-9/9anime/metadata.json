@@ -9,7 +9,7 @@
   "description": {
     "en": "9anime is a free anime website where millions visit to watch anime online."
   },
-  "url": "9animetv.to",
+  "url": "9anime.org.lv",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*9animetv[.]to[/]",
   "version": "1.1.1",
   "logo": "https://cdn.rcd.gg/PreMiD/websites/0-9/9anime/assets/logo.png",
